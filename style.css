@@ -1,0 +1,42 @@
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 48px;
+	position: absolute;
+	left: 25%;
+
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-size: 24px;
+}
+
+body {
+	background-image: url("https://images.pexels.com/photos/1565982/pexels-photo-1565982.jpeg?cs=srgb&dl=bread-color-copyspace-1565982.jpg&fm=jpg");
+	background-size: cover;
+	font-family: Georgia;
+}
+
+.container {
+	width: 60%;
+	background-color: black;
+	margin: 30px auto 0px auto;
+}
+
+.input-container input {
+	display: block;
+	padding: 15px;
+	width: 100%;
+}
+
+.thin-border {
+	border-radius: 10px;
+	border-color: white;
+}
+
+.output-container {
+	background-color: white;
+	width: 100%;
+}
